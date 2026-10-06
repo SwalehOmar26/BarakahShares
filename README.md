@@ -1,6 +1,6 @@
 # BarakahShares;
 
-**BarakahShares – Halal Equity Crowd** is an AI-powered, Shariah-conscious fractional equity crowdfunding platform designed to connect vetted Kenyan SMEs seeking growth capital with smaller investors who want transparent access to real-business ownership.
+**BarakahShares – Halal Equity Crowd** A Shariah-conscious fractional equity crowdfunding platform designed to connect vetted Kenyan SMEs seeking growth capital with smaller investors who want transparent access to real-business ownership.
 
 Instead of relying on conventional interest-based financing, participating businesses raise expansion capital by offering agreed ownership opportunities to investors through a Musharakah-inspired profit-and-loss-sharing model. Investors can discover vetted businesses, review their financial and compliance information, participate from accessible amounts such as KSh 5,000 or KSh 10,000 through M-Pesa, receive digital ownership records, and track business performance and eligible profit distributions from the BarakahShares mobile app.
 
