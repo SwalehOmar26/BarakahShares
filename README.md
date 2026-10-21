@@ -2,7 +2,7 @@
 Halal Equity Crowd. A Shariah-conscious fractional equity crowdfunding platform designed to connect vetted Kenyan SMEs seeking growth capital with smaller investors who want transparent access to real-business ownership.
 Instead of relying on conventional interest-based financing, participating businesses raise expansion capital by offering agreed ownership opportunities to investors through a Musharakah-inspired profit-and-loss-sharing model. Investors can discover vetted businesses, review their financial and compliance information, participate from accessible amounts such as KSh 5,000 or KSh 10,000 through M-Pesa, receive digital ownership records, and track business performance and eligible profit distributions from the BarakahShares mobile app.
 
-The Problem
+# The problem 
 
 Many young Muslims have small amounts of savings but cannot individually access larger business opportunities. At the same time, established SMEs may need growth capital but prefer financing structures that avoid interest-based borrowing.
 
@@ -10,7 +10,7 @@ Informal investment arrangements can also suffer from limited transparency, weak
 
 BarakahShares aims to bridge this gap by creating a transparent digital marketplace connecting vetted businesses seeking expansion capital with smaller investors.
 
- How BarakahShares Works
+# How BarakahShares Works
 
  1. Business Onboarding
 
@@ -66,12 +66,12 @@ Investors can view blockchain transaction references through BaseScan.
 
 Sensitive personal and business information is never stored directly on the public blockchain.
 
-5. Document Verification
+#### 5. Document Verification
 
 Confidential documents are stored securely in private storage.
 
 Approved documents can also generate cryptographic fingerprints, with IPFS/Pinata content identifiers and blockchain records helping verify that approved evidence has not been silently altered.
- 6. Profit & Loss Sharing
+####  6. Profit & Loss Sharing
 
 Businesses periodically submit financial information and supporting evidence.
 
@@ -81,7 +81,7 @@ Where distributable profit exists, each investor's allocation is calculated acco
 
 If the business performs poorly or incurs a genuine loss, investors are not promised a fixed guaranteed return.
 
-7. Barakah
+#### 7. Barakah AI
 
 Barakah AI helps make complex investment information easier to understand.
 
@@ -97,7 +97,7 @@ Investors can ask questions such as:
 
 The AI uses authorized BarakahShares information to provide explanations and summaries. It does not make authoritative financial calculations, move investor funds or independently determine Shariah compliance.
 
- Technology Stack
+#### Technology Stack
 
  Mobile Application
 
